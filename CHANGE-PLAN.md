@@ -16,7 +16,7 @@ Originally developed at Bigpoint. Published here with Bigpoint's permission for 
 
 ## Planned changes
 
-- [ ] Tag and publish `v0.4.0` with the Release workflow.
+- [x] Tag and publish `v0.4.0` with the Release workflow.
 - [ ] Make installs resolve dependencies automatically, for example through a registry such as OpenUPM.
 - [ ] Rebuild the removed favorites window as original code.
 
