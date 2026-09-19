@@ -35,6 +35,10 @@ Unity cannot resolve git dependencies automatically, so add these to your projec
 
 - `com.tea-spoons.package-core` 0.3.0
 
+## Change plan
+
+See [CHANGE-PLAN.md](CHANGE-PLAN.md) for what changed before publishing and what is planned next.
+
 ## License
 
 Copyright (c) 2026 Bigpoint. Authored by Muhammad Tarek Abdou.
