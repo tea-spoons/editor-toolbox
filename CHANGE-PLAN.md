@@ -12,12 +12,13 @@ Originally developed at Bigpoint. Published here with Bigpoint's permission for 
 - Internal build, registry and tracker references were removed; the repo uses GitHub Actions (`CI` and `Release`) built on `unity-ci-kit`.
 - Added `LICENSE.md` (PolyForm Noncommercial 1.0.0), an install section in the README, and package metadata (author, license and documentation URLs).
 - Removed `FavoritesWindow` and `StringInputDialog`: they were adapted from a public gist without a stated license.
+- Added a new `StringInputDialog` written from scratch against Unity's public `EditorWindow` API, with tests (version 0.4.0).
 
 ## Planned changes
 
-- [ ] Tag and publish `v0.3.1` with the Release workflow.
+- [ ] Tag and publish `v0.4.0` with the Release workflow.
 - [ ] Make installs resolve dependencies automatically, for example through a registry such as OpenUPM.
-- [ ] Rebuild the removed favorites window and text-input dialog as original code.
+- [ ] Rebuild the removed favorites window as original code.
 
 ## Notes and ideas
 

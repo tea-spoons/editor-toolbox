@@ -27,7 +27,7 @@ In Unity: **Window > Package Manager > + > Add package from git URL**, then ente
 https://github.com/tea-spoons/editor-toolbox.git
 ```
 
-Pin a release by appending a tag, for example `#v0.3.1`.
+Pin a release by appending a tag, for example `#v0.4.0`.
 
 ### Dependencies
 

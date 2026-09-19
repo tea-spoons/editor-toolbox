@@ -1,6 +1,6 @@
 {
   "name": "com.tea-spoons.editor-toolbox",
-  "version": "0.3.1",
+  "version": "0.4.0",
   "displayName": "Editor Toolbox",
   "description": "A collection of handy editor tools.",
   "unity": "2022.3",
